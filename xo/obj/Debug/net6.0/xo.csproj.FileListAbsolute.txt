@@ -1,0 +1,44 @@
+M:\הנדסאים\oop\xo\xo\bin\Debug\net6.0\xo.exe
+M:\הנדסאים\oop\xo\xo\bin\Debug\net6.0\xo.deps.json
+M:\הנדסאים\oop\xo\xo\bin\Debug\net6.0\xo.runtimeconfig.json
+M:\הנדסאים\oop\xo\xo\bin\Debug\net6.0\xo.dll
+M:\הנדסאים\oop\xo\xo\bin\Debug\net6.0\xo.pdb
+M:\הנדסאים\oop\xo\xo\obj\Debug\net6.0\xo.csproj.AssemblyReference.cache
+M:\הנדסאים\oop\xo\xo\obj\Debug\net6.0\xo.GeneratedMSBuildEditorConfig.editorconfig
+M:\הנדסאים\oop\xo\xo\obj\Debug\net6.0\xo.AssemblyInfoInputs.cache
+M:\הנדסאים\oop\xo\xo\obj\Debug\net6.0\xo.AssemblyInfo.cs
+M:\הנדסאים\oop\xo\xo\obj\Debug\net6.0\xo.csproj.CoreCompileInputs.cache
+M:\הנדסאים\oop\xo\xo\obj\Debug\net6.0\xo.dll
+M:\הנדסאים\oop\xo\xo\obj\Debug\net6.0\refint\xo.dll
+M:\הנדסאים\oop\xo\xo\obj\Debug\net6.0\xo.pdb
+M:\הנדסאים\oop\xo\xo\obj\Debug\net6.0\xo.genruntimeconfig.cache
+M:\הנדסאים\oop\xo\xo\obj\Debug\net6.0\ref\xo.dll
+T:\אא יעל\xo\xo\bin\Debug\net6.0\xo.exe
+T:\אא יעל\xo\xo\bin\Debug\net6.0\xo.deps.json
+T:\אא יעל\xo\xo\bin\Debug\net6.0\xo.runtimeconfig.json
+T:\אא יעל\xo\xo\bin\Debug\net6.0\xo.dll
+T:\אא יעל\xo\xo\bin\Debug\net6.0\xo.pdb
+T:\אא יעל\xo\xo\obj\Debug\net6.0\xo.csproj.AssemblyReference.cache
+T:\אא יעל\xo\xo\obj\Debug\net6.0\xo.GeneratedMSBuildEditorConfig.editorconfig
+T:\אא יעל\xo\xo\obj\Debug\net6.0\xo.AssemblyInfoInputs.cache
+T:\אא יעל\xo\xo\obj\Debug\net6.0\xo.AssemblyInfo.cs
+T:\אא יעל\xo\xo\obj\Debug\net6.0\xo.csproj.CoreCompileInputs.cache
+T:\אא יעל\xo\xo\obj\Debug\net6.0\xo.dll
+T:\אא יעל\xo\xo\obj\Debug\net6.0\refint\xo.dll
+T:\אא יעל\xo\xo\obj\Debug\net6.0\xo.pdb
+T:\אא יעל\xo\xo\obj\Debug\net6.0\xo.genruntimeconfig.cache
+T:\אא יעל\xo\xo\obj\Debug\net6.0\ref\xo.dll
+D:\לימודים\שנה א\מהסמינר\oop\xo\xo\bin\Debug\net6.0\xo.exe
+D:\לימודים\שנה א\מהסמינר\oop\xo\xo\bin\Debug\net6.0\xo.deps.json
+D:\לימודים\שנה א\מהסמינר\oop\xo\xo\bin\Debug\net6.0\xo.runtimeconfig.json
+D:\לימודים\שנה א\מהסמינר\oop\xo\xo\bin\Debug\net6.0\xo.dll
+D:\לימודים\שנה א\מהסמינר\oop\xo\xo\bin\Debug\net6.0\xo.pdb
+D:\לימודים\שנה א\מהסמינר\oop\xo\xo\obj\Debug\net6.0\xo.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\שנה א\מהסמינר\oop\xo\xo\obj\Debug\net6.0\xo.AssemblyInfoInputs.cache
+D:\לימודים\שנה א\מהסמינר\oop\xo\xo\obj\Debug\net6.0\xo.AssemblyInfo.cs
+D:\לימודים\שנה א\מהסמינר\oop\xo\xo\obj\Debug\net6.0\xo.csproj.CoreCompileInputs.cache
+D:\לימודים\שנה א\מהסמינר\oop\xo\xo\obj\Debug\net6.0\xo.dll
+D:\לימודים\שנה א\מהסמינר\oop\xo\xo\obj\Debug\net6.0\refint\xo.dll
+D:\לימודים\שנה א\מהסמינר\oop\xo\xo\obj\Debug\net6.0\xo.pdb
+D:\לימודים\שנה א\מהסמינר\oop\xo\xo\obj\Debug\net6.0\xo.genruntimeconfig.cache
+D:\לימודים\שנה א\מהסמינר\oop\xo\xo\obj\Debug\net6.0\ref\xo.dll

@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D0\\OOP\\xo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D0\\oop\\xo\\xo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|solutionrelative:xo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D0\\oop\\xo\\xo\\maneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|solutionrelative:xo\\maneger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D0\\oop\\xo\\xo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|solutionrelative:xo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D0\\oop\\xo\\xo\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|solutionrelative:xo\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D0\\oop\\xo\\xo\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|solutionrelative:xo\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|c:\\users\\1\\desktop\\\u05D4\u05D3\u05E1\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D0\\oop\\xo\\xo\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91F329A5-2D3C-4F8A-A156-7143A7DA4ED8}|xo\\xo.csproj|solutionrelative:xo\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "player.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D0\\OOP\\xo\\xo\\player.cs",
+              "RelativeDocumentMoniker": "xo\\player.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D0\\OOP\\xo\\xo\\player.cs",
+              "RelativeToolTip": "xo\\player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:12:09.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "computer.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D0\\OOP\\xo\\xo\\computer.cs",
+              "RelativeDocumentMoniker": "xo\\computer.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D0\\OOP\\xo\\xo\\computer.cs",
+              "RelativeToolTip": "xo\\computer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:12:09.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "person.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D0\\OOP\\xo\\xo\\person.cs",
+              "RelativeDocumentMoniker": "xo\\person.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D0\\OOP\\xo\\xo\\person.cs",
+              "RelativeToolTip": "xo\\person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:12:09.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "board.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D0\\OOP\\xo\\xo\\board.cs",
+              "RelativeDocumentMoniker": "xo\\board.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D0\\OOP\\xo\\xo\\board.cs",
+              "RelativeToolTip": "xo\\board.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:12:09.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "maneger.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D0\\OOP\\xo\\xo\\maneger.cs",
+              "RelativeDocumentMoniker": "xo\\maneger.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D0\\OOP\\xo\\xo\\maneger.cs",
+              "RelativeToolTip": "xo\\maneger.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:12:09.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D0\\OOP\\xo\\xo\\Program.cs",
+              "RelativeDocumentMoniker": "xo\\Program.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\\u05D4\u05D3\u05E1\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D0\\OOP\\xo\\xo\\Program.cs",
+              "RelativeToolTip": "xo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:12:09.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
