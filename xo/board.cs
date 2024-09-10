@@ -12,7 +12,7 @@ namespace xo
         //public char[,] mat { get; set; }
         public char[,] mat = new char[3, 3];
 
-        //הדפסת הלוח
+        // Printing the board
         public void Print()
         {
             for (int i = 0; i < this.mat.GetLength(0); i++)
@@ -27,7 +27,8 @@ namespace xo
             }
         }
 
-        //בדיקה האם  המיקום ריק
+        // Checking if the position is empty
+
         public bool Isnull(int i, int j)
         {
             if (this.mat[i, j] != 'x'&& this.mat[i, j]!='o')
@@ -35,13 +36,13 @@ namespace xo
             return false;
         }
 
-        //הצבה
+        // Inserting the value into the appropriate position
         public void insert(int i, int j, char c)
         {
             this.mat[i, j] = c;
         }
 
-        //בדיקת מנצח
+        // Checking for a winner
         public bool Iswin(char c)
         {
             int c1 = 0;
